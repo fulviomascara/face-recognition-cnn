@@ -1,3 +1,3 @@
 # Facial Recognition using Deep Learning and OpenCV
 
-More details sooner
+More details soon
