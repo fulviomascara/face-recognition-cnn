@@ -29,3 +29,7 @@ Using a low-cost equipment like Raspberry Pi, I'm on mission to deliver a effici
 - Test other models for facial embeddings
 - Test other classification algorithms
 - Expose APIs
+
+## Credits
+
+Dr. Adrian Rosebrock from [pyimagesearch.com](http://wwww.pyimagesearch.com) for the magnificent work in Computer Vision and code used in this project
