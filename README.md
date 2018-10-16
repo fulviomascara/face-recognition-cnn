@@ -4,7 +4,7 @@ Motivated by the challenge declared by the innovation committee and inspired by 
 
 ## Challenge Statement
 
-Using a low-cost equipment like Raspberry Pi, I'm on mission to deliver a efficient and reliable facial recognition system, capable to preprocess (detect faces, generate embeddings, train/enrich data) and recognize employee's faces, register events when faces are recognized and finally ensure that certain  resources only can be accessed by certain people recognized by facial recognition system.
+Using a low-cost equipment like Raspberry Pi, I'm on mission to deliver a efficient and reliable facial recognition system, capable to preprocess (detect faces, generate embeddings, train/enrich data) and recognize employees' faces, register events when faces are recognized and finally ensure that certain  resources only can be accessed by certain people recognized by facial recognition system.
 
 ## Setup for MacOS
 
