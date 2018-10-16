@@ -1,4 +1,4 @@
-# Facial Recognition using Deep Learning and OpenCV
+# Face Recognition using Deep Learning and OpenCV
 
 Motivated by the challenge declared by the innovation committee and inspired by lessons from Adrian Rosebrock (pyimagesearch.com) about Computer Vision, I started a journey into learning and understanding some fundamentals and approaches about Computer Vision, OpenCV and Deep Learning, which I'm sharing here and expect to help you in your own challenges.
 
